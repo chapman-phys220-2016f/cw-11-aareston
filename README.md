@@ -1,8 +1,8 @@
 # PHYS220 CW 11 
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Preston Kamada
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-11-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-11-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-11-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-11-aareston)
 
 **Due date:** 2016/11/15
 
@@ -56,7 +56,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for int
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+This assignment helped me to pick apart the details of the methods used to integrate ODEs and discover through assessment which of the methods were the most accurate or popular. I found the 4th order to be the most useful integrator.
 
 ## Honor Pledge
 
@@ -67,4 +67,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Preston S Kamada
